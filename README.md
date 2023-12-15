@@ -10,4 +10,4 @@ I pretty much wrote the code from top to bottom, step by step. I used the switch
 
 ## View it live
 
-Look at the site here: https://radiant-beignet-42fae0.netlify.app/code/
+Look at the site here: https://radiant-beignet-42fae0.netlify.app/
